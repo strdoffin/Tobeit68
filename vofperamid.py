@@ -1,3 +1,2 @@
-x = float(input())
-h = float(input())
-print("%.6f" %((x**2) * h *(1/3)))
+"""_Oi Oi Oi Baaaka_"""
+print(f"{int(input())**2*int(input())/3:.6f}")
