@@ -1,8 +1,5 @@
-s = int(input())
-x = int(input())
-y = int(input())
-d = ((x**2) + (y**2))**0.5
-r = (s / 3.14159)**0.5
-time = int(d / r)
+litt = [0,2,3,4,5]
+a = [0,3,2,1,4]
 
-print(time)
+
+print(litt[a[2]])
